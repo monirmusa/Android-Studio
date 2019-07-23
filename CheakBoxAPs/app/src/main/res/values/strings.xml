@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheakBoxAPs</string>
+    <string name="title_text">What do you want to buy ?</string>
+    <string name="milk_text">Milk </string>
+    <string name="suger_text">Suger </string>
+    <string name="water_text">Water </string>
+    <string name="button_text">SHOW </string>
+
+</resources>

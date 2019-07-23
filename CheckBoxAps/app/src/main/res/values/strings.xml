@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBoxAps</string>
+    <string name="title_text">What do you Want to buy ??</string>
+    <string name="milk_text">Milk</string>
+    <string name="suger_text">Sugar</string>
+    <string name="water_text">Water</string>
+    <string name="button_text">SHOW</string>
+</resources>

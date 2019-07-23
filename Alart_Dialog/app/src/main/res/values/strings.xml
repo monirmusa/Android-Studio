@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Alart_Dialog</string>
+    <string name="button_text">Exit</string>
+    <string name="alart_text">Alart Title</string>
+    <string name="message_text">Do you want to exit?</string>
+</resources>

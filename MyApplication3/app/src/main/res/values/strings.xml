@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_text1">Enter Numer1</string>
+    <string name="edit_text2">Enter Numer2</string>
+</resources>
